@@ -1,0 +1,5 @@
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Dominio\bin\Debug\ProjetoBase.Dominio.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Dominio\bin\Debug\ProjetoBase.Dominio.pdb
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Dominio\obj\Debug\ProjetoBase.Dominio.csproj.CoreCompileInputs.cache
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Dominio\obj\Debug\ProjetoBase.Dominio.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Dominio\obj\Debug\ProjetoBase.Dominio.pdb

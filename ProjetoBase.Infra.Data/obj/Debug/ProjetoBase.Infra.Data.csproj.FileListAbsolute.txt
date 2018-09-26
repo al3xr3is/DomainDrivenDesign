@@ -1,0 +1,17 @@
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\ProjetoBase.Infra.Data.dll.config
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\ProjetoBase.Infra.Data.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\ProjetoBase.Infra.Data.pdb
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\ProjetoBase.Dominio.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\ProjetoBase.Dominio.pdb
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\obj\Debug\ProjetoBase.Infra.Data.csprojAssemblyReference.cache
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\obj\Debug\ProjetoBase.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\obj\Debug\ProjetoBase.Infra.Data.csproj.CopyComplete
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\obj\Debug\ProjetoBase.Infra.Data.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\obj\Debug\ProjetoBase.Infra.Data.pdb
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\System.Data.SqlServerCe.dll
+D:\Users\t100876607\source\repos\ProjetoBase\ProjetoBase.Infra.Data\bin\Debug\EntityFramework.SqlServerCompact.xml
